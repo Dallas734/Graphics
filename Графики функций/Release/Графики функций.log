@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(9,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(123,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(145,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(100,11): warning C4101: y1: неиспользованная локальная переменная
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(271,19): warning C4302: <function-style-cast>: усечение из "char *" к "wchar_t"
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(395,21): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Графики функций.vcxproj -> C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Release\Графики функций.exe

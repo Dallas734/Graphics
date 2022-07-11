@@ -1,0 +1,69 @@
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+F:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+F:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графикифункций.MyForm.resources
+F:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графикифункций.MyForm.resources
+G:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графикифункций.MyForm.resources
+E:\Vernidub_ISPU\Графики функций\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+D:\Users\1-41\Vernidub\Графики функций\Графики функций PictureBox\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+D:\Users\1-41\Vernidub\Графики функций\Графики функций PictureBox\Графики функций\Debug\Графикифункций.MyForm.resources
+D:\Users\1-41\Vernidub\Графики функций\Графики функций PictureBox\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графикифункций.MyForm.resources
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Aleksandr\Documents\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Aleksandr\Documents\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Aleksandr\Documents\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+D:\Users\1-41\Vernidub\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+D:\Users\1-41\Vernidub\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графикифункций.MyForm.resources
+D:\Users\1-41\Vernidub\Графики функций PictureBox Ver 2.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графикифункций.MyForm.resources
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графикифункций.MyForm.resources
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Aleksandr\source\repos\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+E:\Vernidub_ISPU\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+E:\Vernidub_ISPU\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графикифункций.MyForm.resources
+E:\Vernidub_ISPU\Графики функций PictureBox Ver 3.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+D:\Users\1-41\Vernidub\Графики функций PictureBox Ver 4.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+D:\Users\1-41\Vernidub\Графики функций PictureBox Ver 4.0\Графики функций\Debug\Графикифункций.MyForm.resources
+D:\Users\1-41\Vernidub\Графики функций PictureBox Ver 4.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.0\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.2\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.2\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.2\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.2\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.2\Графики функций\Debug\Графикифункций.MyForm.resources
+E:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.2\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.5\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.5\Графики функций\Debug\Графикифункций.MyForm.resources
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.5\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.5\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.5\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 4.5\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 5.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 5.0\Графики функций\Debug\Графикифункций.MyForm.resources
+G:\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 5.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 6.0\Графики функций\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 6.0\Графики функций\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox Ver 6.0\Графики функций\Debug\Графики функций.vcxproj.GenerateResource.cache

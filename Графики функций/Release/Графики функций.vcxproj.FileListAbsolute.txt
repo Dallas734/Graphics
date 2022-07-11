@@ -1,0 +1,2 @@
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\Release\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\Release\Графики функций.vcxproj.GenerateResource.cache

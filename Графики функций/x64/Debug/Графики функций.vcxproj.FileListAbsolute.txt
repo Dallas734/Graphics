@@ -1,0 +1,6 @@
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций PictureBox\Графики функций\x64\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций PictureBox\Графики функций\x64\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций PictureBox\Графики функций\x64\Debug\Графики функций.vcxproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\x64\Debug\Графики функций.vcxproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\x64\Debug\Графикифункций.MyForm.resources
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\x64\Debug\Графики функций.vcxproj.GenerateResource.cache

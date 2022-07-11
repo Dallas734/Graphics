@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.h(371,28): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(9,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(66,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(76,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(133,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(159,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(193,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(115,11): warning C4101: y1: неиспользованная локальная переменная
+C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\Графики функций\MyForm.cpp(419,21): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Графики функций.vcxproj -> C:\Users\Alexandr\source\repos\Vernidub_ISPU\Графики функций\Графики функций PictureBox\x64\Debug\Графики функций.exe
